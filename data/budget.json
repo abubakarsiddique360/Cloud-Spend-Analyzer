@@ -1,0 +1,11 @@
+{
+  "monthly": 20000,
+  "per_service": {
+    "Compute": 6000,
+    "Database": 1600
+  },
+  "per_account": {
+    "prod-data": 12500,
+    "sandbox": 2000
+  }
+}
